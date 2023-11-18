@@ -1,0 +1,30 @@
+.confirmation-title {
+    font-size: 24px;
+    color: #333; 
+  }
+  
+  .confirmation-message {
+    font-size: 16px;
+    color: #555; 
+    margin-bottom:40px 
+  }
+  
+  .confirmation-button-container {
+    position: absolute;
+    bottom: 0px; 
+    right: 20px; 
+  }
+  
+  .confirmation-button {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 10px 20px; 
+    margin-right: 10px; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer;
+  }
+  
+  .confirmation-button:hover {
+    background-color: #0056b3; 
+  }
